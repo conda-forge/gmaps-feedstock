@@ -1,6 +1,6 @@
 {% set name = "gmaps" %}
-{% set version = "0.7.3" %}
-{% set sha256 = "9bae665e87c98d7592c9f41aef13aecd1f62ccb3126c24ced59c610491772a7d" %}
+{% set version = "0.7.4" %}
+{% set sha256 = "35e58737c61df5a0a891408e813e0b5de0a2bf47407ec8fc1f89943ddcc5dd5d" %}
 
 package:
   name: {{ name|lower }}
