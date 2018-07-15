@@ -15,14 +15,15 @@ gmaps is a Jupyter plugin for visualizing data on Google maps in Jupyter noteboo
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/gmaps-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/gmaps-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/gmaps-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/gmaps-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/gmaps-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/gmaps-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/gmaps-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/gmaps-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/gmaps/badges/version.svg)](https://anaconda.org/conda-forge/gmaps)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/gmaps/badges/downloads.svg)](https://anaconda.org/conda-forge/gmaps)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-gmaps-green.svg)](https://anaconda.org/conda-forge/gmaps) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/gmaps.svg)](https://anaconda.org/conda-forge/gmaps) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/gmaps.svg)](https://anaconda.org/conda-forge/gmaps) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/gmaps.svg)](https://anaconda.org/conda-forge/gmaps) |
 
 Installing gmaps
 ================
