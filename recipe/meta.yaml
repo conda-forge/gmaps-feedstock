@@ -1,6 +1,6 @@
 {% set name = "gmaps" %}
-{% set version = "0.8.0" %}
-{% set sha256 = "50da8504211f5d06783081e024f30ec2ba3c0007de956a99c4d1afe3f80d90ac" %}
+{% set version = "0.8.1" %}
+{% set sha256 = "37ed443ac3c1b964f29b39cd4dfc783a97d7274d6856467ccc63aa43396b7f65" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
