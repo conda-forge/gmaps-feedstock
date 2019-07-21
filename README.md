@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About gmaps
 ===========
 
@@ -19,8 +15,15 @@ gmaps is a Jupyter plugin for visualizing data on Google maps in Jupyter noteboo
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/gmaps-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/gmaps-feedstock)
+
+<table><tr><td>All platforms:</td>
+    <td>
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5033&branchName=master">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/gmaps-feedstock?branchName=master">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
