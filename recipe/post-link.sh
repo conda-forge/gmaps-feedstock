@@ -1,1 +1,1 @@
-"${PREFIX}/bin/jupyter-nbextension" enable gmaps --py --sys-prefix
+"${PREFIX}/bin/jupyter" nbextension enable gmaps --py --sys-prefix
