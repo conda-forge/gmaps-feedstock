@@ -26,7 +26,7 @@ requirements:
     - python >=3.6
     - geojson >=2.0.0
     - ipywidgets >=7.0.0
-    - jupyter-contrib-nbextensions
+    - jupyter_contrib_nbextensions
 
 test:
   imports:
