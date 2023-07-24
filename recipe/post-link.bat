@@ -1,3 +1,3 @@
 @echo off
 
-"%PREFIX%\Scripts\jupyter.exe" nbextension enable gmaps --py --sys-prefix && if errorlevel 1 exit 1
+"%PREFIX%\Scripts\jupyter.exe" contrib nbextension enable gmaps --py --sys-prefix && if errorlevel 1 exit 1
