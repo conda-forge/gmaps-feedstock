@@ -24,8 +24,9 @@ requirements:
     - jupyter
   run:
     - python >=3.6
-    - ipywidgets >=7.0.0
     - geojson >=2.0.0
+    - ipywidgets >=7.0.0
+    - jupyter-contrib-nbextensions
 
 test:
   imports:
